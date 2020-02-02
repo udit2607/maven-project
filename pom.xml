@@ -16,6 +16,7 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
 
+<!--depndencies-->
   <modules>
     <module>server</module>
     <module>webapp</module>
